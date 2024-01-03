@@ -17,6 +17,17 @@ h3 {
 h1 {
   font-size: 96px;
 }
+@media (max-width: 578px) {
+  h1 {
+    font-size: 72px;
+  }
+  h2 {
+    font-size: 32px;
+  }
+  h3 {
+    font-size: 18px;
+  }
+}
 
 h2 {
   font-size: 48px;
